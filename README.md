@@ -1,5 +1,5 @@
 # Oh My Python Tools
-this repo is all my python tool module writed with diffrent libraries
+this repo is all my python tools module writed with diffrent libraries
 
 
 # list of python tools 
@@ -24,7 +24,7 @@ this repo is all my python tool module writed with diffrent libraries
       - read and put in pickle
       - read and put in image file
 - add file.manager.path_renamer
-  - read rename all file in path1.*/ *.ext  
+  - rename all file in path.*/ *.ext  
 - add dataset.image.file module
    - read from file in two diffrent approch
       - read and put in pickle
