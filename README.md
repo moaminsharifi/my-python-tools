@@ -23,8 +23,14 @@ this repo is all my python tools module writed with diffrent libraries
    - read from csv file in two diffrent approch
       - read and put in pickle
       - read and put in image file
+- add dataset.image.genrator module
+  - read file from PATH like 'dataset' and convert it into genrators 
+- add dataset.image.resizer
+  - add PATH like 'dataset' find all images in all folder and sub folders and convert to your size
+- add dataset.image.agumention
+  - augment data as jpg file and save in PATH 
 - add file.manager.path_renamer
-  - rename all file in path.*/ *.ext  
+  - rename all file inall folder and sub folders with this patern '*.ext'
 - add dataset.image.file module
    - read from file in two diffrent approch
       - read and put in pickle
@@ -32,3 +38,12 @@ this repo is all my python tools module writed with diffrent libraries
         - tf data
         - custom genrator
         - image genrator keras
+- add dataset.text.preprocessing
+  - make text more simple and readable
+ 
+- add model.confusion_matrix
+  - pass model and test data then plot confusion matrix or save it.
+- add mode.metrics
+  - custom metrics
+- model.*.resnet
+  - add resnet architect
